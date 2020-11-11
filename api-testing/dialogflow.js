@@ -4,7 +4,7 @@
 const projectId = 'zeiver';
 const location = 'global';
 const agentId = 'c7cb8806-ce62-4b90-94dc-9a5f3bbcc8fe';
-const query = ['Hello'];
+const query = ['Hello my dear, I want a t-shirt'];
 const languageCode = 'en'
 
 // Imports the Google Cloud Some API library
