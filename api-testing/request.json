@@ -1,0 +1,11 @@
+{
+    "queryInput": {
+      "text": {
+        "text": "Hello my dear"
+      },
+      "languageCode": "en"
+    },
+    "queryParams": {
+      "timeZone": "America/Los_Angeles"
+    }
+  }
